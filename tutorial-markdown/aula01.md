@@ -47,7 +47,7 @@ Para registros de aulas, também podem ser utilizadas nomes como;
         aula-01.md
 
 # Boas Práticas
-> $$Prefiranomes:
+> $Prefiranomes$:
     
 - curtos;
 - descritos;
@@ -58,7 +58,7 @@ Para registros de aulas, também podem ser utilizadas nomes como;
 
 ---
 
-> $$Recomendado
+> $Recomendado$
 
 - resumo-git.md
 - aula-01.md
@@ -66,7 +66,7 @@ Para registros de aulas, também podem ser utilizadas nomes como;
 
 ---
 
-> $$Evite
+> $Evite$
 
 - Resumo Git.md
 - Aula 01.md
